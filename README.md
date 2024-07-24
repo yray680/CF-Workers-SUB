@@ -1,4 +1,4 @@
-# 定制汇聚订阅 CF-Workers-SUB 有泄漏风险，谨慎食用
+# 定制汇聚订阅 CF-Workers-SUB pr点错了，请无视
 
 ### 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
 
